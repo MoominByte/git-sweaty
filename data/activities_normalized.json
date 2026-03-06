@@ -15130,5 +15130,18 @@
     "start_date_local": "2026-03-01T15:36:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 3187.5,
+    "elevation_gain": 18.0,
+    "id": "17618684984",
+    "moving_time": 2491.0,
+    "name": "Marche dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-05T16:48:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
