@@ -15143,5 +15143,18 @@
     "start_date_local": "2026-03-05T16:48:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 21178.6,
+    "elevation_gain": 226.0,
+    "id": "17629767714",
+    "moving_time": 2374.0,
+    "name": "Zwift - Hudson Hustle in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-06T17:45:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
