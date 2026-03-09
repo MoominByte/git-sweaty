@@ -15156,5 +15156,31 @@
     "start_date_local": "2026-03-06T17:45:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 2752.8,
+    "elevation_gain": 20.0,
+    "id": "17651546828",
+    "moving_time": 2209.0,
+    "name": "Marche le midi",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-08T12:16:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 13679.0,
+    "elevation_gain": 61.0,
+    "id": "17654259966",
+    "moving_time": 1491.0,
+    "name": "Zwift - Beach Island Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-08T17:31:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
