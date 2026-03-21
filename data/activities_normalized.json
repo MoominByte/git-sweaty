@@ -15247,5 +15247,18 @@
     "start_date_local": "2026-03-17T17:40:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 24937.6,
+    "elevation_gain": 291.0,
+    "id": "17806261333",
+    "moving_time": 2768.0,
+    "name": "Zwift - Cobbled Crown in Richmond",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-21T12:36:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
