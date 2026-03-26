@@ -15273,5 +15273,18 @@
     "start_date_local": "2026-03-22T17:24:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 3582.1,
+    "elevation_gain": 18.0,
+    "id": "17859588034",
+    "moving_time": 1703.0,
+    "name": "Marche en soir\u00e9e",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-25T18:52:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
