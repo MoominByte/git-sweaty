@@ -15286,5 +15286,18 @@
     "start_date_local": "2026-03-25T18:52:41Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 2932.5,
+    "elevation_gain": 13.0,
+    "id": "17889729006",
+    "moving_time": 2627.0,
+    "name": "Marche le matin",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T09:57:11Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
