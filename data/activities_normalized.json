@@ -15377,5 +15377,18 @@
     "start_date_local": "2026-04-04T17:16:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 1780.4,
+    "elevation_gain": 7.0,
+    "id": "17994011326",
+    "moving_time": 944.0,
+    "name": "Marche de nuit",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T22:11:07Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
