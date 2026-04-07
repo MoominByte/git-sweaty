@@ -8287,6 +8287,27 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 11,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 11,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15987,11 +16008,42 @@
           "distance": 1780.4,
           "elevation_gain": 7.0,
           "moving_time": 944.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18004893186"
+          ],
+          "count": 1,
+          "distance": 3637.2,
+          "elevation_gain": 10.0,
+          "moving_time": 2117.0
+        }
+      },
+      "Workout": {
+        "2026-04-06": {
+          "activity_ids": [
+            "18001496009"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 757.0
+        }
+      },
+      "Yoga": {
+        "2026-04-06": {
+          "activity_ids": [
+            "18002332463"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2115.0
         }
       }
     }
   },
-  "generated_at": "2026-04-06T15:22:38.515705+00:00",
+  "generated_at": "2026-04-07T15:36:40.986399+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",
@@ -16039,6 +16091,10 @@
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
+    },
+    "Yoga": {
+      "accent": "#f15bb5",
+      "label": "Yoga"
     }
   },
   "types": [
@@ -16052,7 +16108,8 @@
     "Swim",
     "VirtualRide",
     "Walk",
-    "Workout"
+    "Workout",
+    "Yoga"
   ],
   "units": {
     "distance": "km",

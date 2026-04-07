@@ -15390,5 +15390,44 @@
     "start_date_local": "2026-04-05T22:11:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18001496009",
+    "moving_time": 757.0,
+    "name": "Entra\u00eenement le midi",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-06T11:00:12Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18002332463",
+    "moving_time": 2115.0,
+    "name": "Yoga le midi",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-06T11:50:08Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 3637.2,
+    "elevation_gain": 10.0,
+    "id": "18004893186",
+    "moving_time": 2117.0,
+    "name": "Marche dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-06T16:14:13Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
