@@ -15507,5 +15507,31 @@
     "start_date_local": "2026-04-10T18:40:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 2611.8,
+    "elevation_gain": 10.0,
+    "id": "18068487203",
+    "moving_time": 2260.0,
+    "name": "Marche le midi",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-11T11:02:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 5021.6,
+    "elevation_gain": 17.0,
+    "id": "18072062201",
+    "moving_time": 1660.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T18:06:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
