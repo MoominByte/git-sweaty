@@ -8378,6 +8378,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15807,12 +15821,14 @@
       "Ride": {
         "2026-04-18": {
           "activity_ids": [
-            "18158690569"
+            "18158690569",
+            "18161369209",
+            "18164011111"
           ],
-          "count": 1,
-          "distance": 15612.9,
-          "elevation_gain": 80.0,
-          "moving_time": 2405.0
+          "count": 3,
+          "distance": 64213.0,
+          "elevation_gain": 365.0,
+          "moving_time": 9531.0
         }
       },
       "Run": {
@@ -16205,7 +16221,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:19:02.220547+00:00",
+  "generated_at": "2026-04-19T15:19:23.915331+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",
