@@ -15624,5 +15624,31 @@
     "start_date_local": "2026-04-22T19:47:58Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18233203488",
+    "moving_time": 3475.0,
+    "name": "Charge with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-23T19:31:40Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18233207836",
+    "moving_time": 3757.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-23T19:33:20Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
