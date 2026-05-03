@@ -15754,5 +15754,31 @@
     "start_date_local": "2026-05-01T18:28:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 7012.5,
+    "elevation_gain": 19.0,
+    "id": "18352321696",
+    "moving_time": 2353.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T18:34:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18361055937",
+    "moving_time": 3991.0,
+    "name": "Entra\u00eenement aux poids le matin",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-03T09:43:23Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
