@@ -15806,5 +15806,31 @@
     "start_date_local": "2026-05-04T17:07:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18393159477",
+    "moving_time": 3113.0,
+    "name": "S\u00e9ance d'entra\u00eenement d'endurance compl\u00e8te with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-05T19:55:40Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18393170692",
+    "moving_time": 2592.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-05T20:04:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
