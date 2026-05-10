@@ -15858,5 +15858,44 @@
     "start_date_local": "2026-05-09T09:51:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18440559895",
+    "moving_time": 2475.0,
+    "name": "Supersets jambes et tronc with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-09T10:44:11Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18440586591",
+    "moving_time": 2495.0,
+    "name": "Entra\u00eenement aux poids le matin",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-09T10:44:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 13023.8,
+    "elevation_gain": 27.0,
+    "id": "18453559058",
+    "moving_time": 4358.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T09:22:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
