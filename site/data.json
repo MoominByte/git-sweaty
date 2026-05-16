@@ -8588,6 +8588,41 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 14,
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16025,6 +16060,29 @@
           "distance": 64213.0,
           "elevation_gain": 365.0,
           "moving_time": 9531.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18519853569",
+            "18520817379",
+            "18521224333",
+            "18522713754"
+          ],
+          "count": 4,
+          "distance": 36027.7,
+          "elevation_gain": 180.0,
+          "moving_time": 5470.0
+        }
+      },
+      "RockClimbing": {
+        "2026-05-15": {
+          "activity_ids": [
+            "18520574343"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4218.0
         }
       },
       "Run": {
@@ -16663,7 +16721,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T15:48:06.772236+00:00",
+  "generated_at": "2026-05-16T15:27:38.922530+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",

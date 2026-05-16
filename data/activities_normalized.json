@@ -15949,5 +15949,70 @@
     "start_date_local": "2026-05-13T17:32:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 14451.0,
+    "elevation_gain": 76.0,
+    "id": "18519853569",
+    "moving_time": 2068.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T13:28:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18520574343",
+    "moving_time": 4218.0,
+    "name": "Escalade dans l'apr\u00e8s-midi",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-05-15T14:19:14Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 3314.7,
+    "elevation_gain": 13.0,
+    "id": "18520817379",
+    "moving_time": 589.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T15:47:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 2167.6,
+    "elevation_gain": 9.0,
+    "id": "18521224333",
+    "moving_time": 392.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T16:52:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 16094.4,
+    "elevation_gain": 82.0,
+    "id": "18522713754",
+    "moving_time": 2421.0,
+    "name": "Sortie v\u00e9lo en soir\u00e9e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T19:31:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
