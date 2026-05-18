@@ -16040,5 +16040,18 @@
     "start_date_local": "2026-05-16T19:39:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 16005.6,
+    "elevation_gain": 52.0,
+    "id": "18545020734",
+    "moving_time": 5381.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T10:03:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
