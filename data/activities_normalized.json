@@ -16053,5 +16053,31 @@
     "start_date_local": "2026-05-17T10:03:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18561994558",
+    "moving_time": 2527.0,
+    "name": "Le plus dur est fait with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-18T19:55:48Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18562006137",
+    "moving_time": 2543.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T19:55:39Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
