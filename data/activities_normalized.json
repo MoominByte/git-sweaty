@@ -16105,5 +16105,31 @@
     "start_date_local": "2026-05-20T18:15:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18602332857",
+    "moving_time": 1427.0,
+    "name": "Concentration pour le jour de course with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-21T19:42:39Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18602344563",
+    "moving_time": 1427.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T19:42:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
