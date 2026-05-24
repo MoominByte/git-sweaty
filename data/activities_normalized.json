@@ -16183,5 +16183,31 @@
     "start_date_local": "2026-05-22T20:05:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 2118.9,
+    "elevation_gain": 0.0,
+    "id": "18625528564",
+    "moving_time": 2562.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-05-23T13:22:32Z",
+    "type": "Kayaking",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 9007.6,
+    "elevation_gain": 9.0,
+    "id": "18636427875",
+    "moving_time": 3025.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:53:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

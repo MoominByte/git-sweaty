@@ -8714,6 +8714,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 13,
+      "subtype": "Kayaking",
+      "type": "Kayaking",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16140,6 +16154,17 @@
       }
     },
     "2026": {
+      "Kayaking": {
+        "2026-05-23": {
+          "activity_ids": [
+            "18625528564"
+          ],
+          "count": 1,
+          "distance": 2118.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2562.0
+        }
+      },
       "Ride": {
         "2026-04-18": {
           "activity_ids": [
@@ -16403,6 +16428,15 @@
           "distance": 5270.8,
           "elevation_gain": 24.0,
           "moving_time": 1746.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18636427875"
+          ],
+          "count": 1,
+          "distance": 9007.6,
+          "elevation_gain": 9.0,
+          "moving_time": 3025.0
         }
       },
       "VirtualRide": {
@@ -16913,7 +16947,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:30:12.207749+00:00",
+  "generated_at": "2026-05-24T15:30:19.482348+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",
