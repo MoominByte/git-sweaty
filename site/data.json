@@ -8868,6 +8868,20 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 16,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16294,6 +16308,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-06-20": {
+          "activity_ids": [
+            "19002778680"
+          ],
+          "count": 1,
+          "distance": 5076.4,
+          "elevation_gain": 145.0,
+          "moving_time": 4113.0
+        }
+      },
       "Kayaking": {
         "2026-05-23": {
           "activity_ids": [
@@ -17151,6 +17176,15 @@
           "distance": 28784.2,
           "elevation_gain": 20.6,
           "moving_time": 15095.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19000345935"
+          ],
+          "count": 1,
+          "distance": 16416.2,
+          "elevation_gain": 5.9,
+          "moving_time": 6327.0
         }
       },
       "Yoga": {
@@ -17211,7 +17245,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T15:39:04.814528+00:00",
+  "generated_at": "2026-06-21T15:40:21.003194+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",
