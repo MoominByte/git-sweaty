@@ -16547,5 +16547,31 @@
     "start_date_local": "2026-06-26T13:25:59Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 22802.0,
+    "elevation_gain": 140.0,
+    "id": "19088148915",
+    "moving_time": 3160.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T11:26:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 21085.7,
+    "elevation_gain": 81.0,
+    "id": "19089283739",
+    "moving_time": 3280.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T13:25:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
