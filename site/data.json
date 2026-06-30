@@ -8924,6 +8924,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16458,6 +16465,15 @@
           "distance": 43887.7,
           "elevation_gain": 221.0,
           "moving_time": 6440.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19116809113"
+          ],
+          "count": 1,
+          "distance": 13949.6,
+          "elevation_gain": 35.0,
+          "moving_time": 1623.0
         }
       },
       "RockClimbing": {
@@ -17325,7 +17341,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:21:09.307866+00:00",
+  "generated_at": "2026-06-30T15:56:10.767296+00:00",
   "other_bucket": "OtherSports",
   "repo": "MoominByte/git-sweaty",
   "source": "strava",
